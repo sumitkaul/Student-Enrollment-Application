@@ -1,6 +1,6 @@
 *.classpath
 target
-*.setting
+*.settings
 *.git
 *.project
 *.classpath
